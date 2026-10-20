@@ -1,14 +1,14 @@
 # Practical 12: CI/CD Pipeline with GitHub Actions
 
-[![CI Pipeline](https://github.com/24CS069Parth/ITUE301-AWDF_Practical12/actions/workflows/ci.yml/badge.svg)](https://github.com/24CS069Parth/ITUE301-AWDF_Practical12/actions/workflows/ci.yml)
+[![CI Pipeline](https://github.com/24CS048Manav/ITUE301-AWDF_Practical12/actions/workflows/ci.yml/badge.svg)](https://github.com/24CS048Manav/ITUE301-AWDF_Practical12/actions/workflows/ci.yml)
 
 **Course**: Advanced Web Development Frameworks (ITUE301)  
 **Department**: Department of Computer Science and Engineering  
 **Institute**: Chandubhai S. Patel Institute of Technology (CSPIT), CHARUSAT  
 **Academic Year**: 2025–2026  
-**Student Name**: Parth Patel  
-**Student ID**: 24CS069  
-**GitHub Repository**: [24CS069Parth/ITUE301-AWDF_Practical12](https://github.com/24CS069Parth/ITUE301-AWDF_Practical12)
+**Student Name**: Manav Lathiya  
+**Student ID**: 24CS048  
+**GitHub Repository**: [24CS048Manav/ITUE301-AWDF_Practical12](https://github.com/24CS048Manav/ITUE301-AWDF_Practical12)
 
 ---
 
@@ -60,7 +60,7 @@ npm run test:backend
 ```
 
 ### Verified Test Cases:
-1. `GET / returns 200 and confirms API metadata` (Verifies student ID `24CS069`).
+1. `GET / returns 200 and confirms API metadata` (Verifies student ID `24CS048`).
 2. `GET /health returns 200 or 503 with service health info` (Microservice observability).
 3. `GET /events/history returns 200 and event history array` (EventEmitter integration).
 4. `GET /tasks without auth token returns 401 Unauthorized` (Security guard).
